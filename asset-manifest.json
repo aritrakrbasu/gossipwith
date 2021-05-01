@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/gossipwith/static/css/main.e12ab494.chunk.css",
+    "main.js": "/gossipwith/static/js/main.323c830e.chunk.js",
+    "main.js.map": "/gossipwith/static/js/main.323c830e.chunk.js.map",
+    "runtime-main.js": "/gossipwith/static/js/runtime-main.e47770f8.js",
+    "runtime-main.js.map": "/gossipwith/static/js/runtime-main.e47770f8.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/gossipwith/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5774657f.chunk.js": "/gossipwith/static/js/2.5774657f.chunk.js",
+    "static/js/2.5774657f.chunk.js.map": "/gossipwith/static/js/2.5774657f.chunk.js.map",
+    "static/js/3.2f780ded.chunk.js": "/gossipwith/static/js/3.2f780ded.chunk.js",
+    "static/js/3.2f780ded.chunk.js.map": "/gossipwith/static/js/3.2f780ded.chunk.js.map",
+    "index.html": "/gossipwith/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/gossipwith/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.e12ab494.chunk.css.map": "/gossipwith/static/css/main.e12ab494.chunk.css.map",
+    "static/js/2.5774657f.chunk.js.LICENSE.txt": "/gossipwith/static/js/2.5774657f.chunk.js.LICENSE.txt",
+    "static/media/1.6dc57c59.svg": "/gossipwith/static/media/1.6dc57c59.svg",
+    "static/media/2.e8ea8e82.svg": "/gossipwith/static/media/2.e8ea8e82.svg",
+    "static/media/3.96e621b8.svg": "/gossipwith/static/media/3.96e621b8.svg",
+    "static/media/4.883534f1.svg": "/gossipwith/static/media/4.883534f1.svg",
+    "static/media/6.cebf9a14.png": "/gossipwith/static/media/6.cebf9a14.png",
+    "static/media/gossip-ico.a73d6567.png": "/gossipwith/static/media/gossip-ico.a73d6567.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e47770f8.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5774657f.chunk.js",
+    "static/css/main.e12ab494.chunk.css",
+    "static/js/main.323c830e.chunk.js"
+  ]
+}
