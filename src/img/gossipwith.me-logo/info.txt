@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: kelson_extrabd
+font link: http://www.fontfabric.com/kelson-sans/
+font author: Bruno Mello
+font author site: http://www.myfonts.com/person/Bruno_Mello/
+
+
+icon designer: DailyPM
+icon designer link: /dailypm.studio
+        
+{"bg":"#EADEE5","icon-gradient-0":"#3C1143","icon-gradient-1":"#C25178","font":"#240D1B","slogan":"#38212f"}
+      
